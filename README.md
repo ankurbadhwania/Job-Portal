@@ -1,6 +1,5 @@
-# job-portal
+# Job-Portal
 
-## DASS(design and analysis of software systems) (a mern stack app) | spring 2021
 
 ## Installations
 
